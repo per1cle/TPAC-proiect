@@ -1,5 +1,14 @@
-/out/
-/results/*.vec
-/results/*.sca
+# Fișiere temporare și build-uri OMNeT++
+out/
+.oppbuildspec
 .nedcache
-/.metadata/
+.metadata/
+
+# Fișiere obiect și executabile C++
+*.o
+*.d
+*.exe
+
+# Rezultate de simulare (dacă nu vrei să le urci pe GitHub)
+results/*.vec
+results/*.sca
