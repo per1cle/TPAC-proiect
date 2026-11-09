@@ -2,3 +2,4 @@
 /results/*.vec
 /results/*.sca
 .nedcache
+/.metadata/
