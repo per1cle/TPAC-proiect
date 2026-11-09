@@ -1,0 +1,4 @@
+/out/
+/results/*.vec
+/results/*.sca
+.nedcache
